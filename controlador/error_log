@@ -1,0 +1,792 @@
+[18-Mar-2020 19:43:16 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[18-Mar-2020 19:43:16 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[18-Mar-2020 19:43:16 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[18-Mar-2020 14:44:21 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[18-Mar-2020 22:48:58 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[18-Mar-2020 22:48:58 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[18-Mar-2020 22:48:58 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[18-Mar-2020 22:52:30 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[18-Mar-2020 17:57:43 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[18-Mar-2020 22:57:50 Etc/GMT] PHP Notice:  Undefined index: buscar in /home/singapuringenier/public_html/intranet/controlador/Cserie.php on line 12
+[19-Mar-2020 00:48:43 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[19-Mar-2020 00:48:43 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 00:48:43 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 01:12:25 Etc/GMT] PHP Notice:  Undefined index: buscar in /home/singapuringenier/public_html/intranet/controlador/Cserie.php on line 12
+[18-Mar-2020 20:12:34 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[19-Mar-2020 01:15:14 Etc/GMT] PHP Notice:  Undefined index: buscar in /home/singapuringenier/public_html/intranet/controlador/Cserie.php on line 12
+[19-Mar-2020 01:15:48 Etc/GMT] PHP Notice:  Undefined index: buscar in /home/singapuringenier/public_html/intranet/controlador/Cserie.php on line 12
+[19-Mar-2020 01:40:10 Etc/GMT] PHP Notice:  Undefined index: buscar in /home/singapuringenier/public_html/intranet/controlador/Cserie.php on line 12
+[19-Mar-2020 02:39:41 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[19-Mar-2020 02:39:41 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 02:39:41 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 02:44:57 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:44:57 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:44:57 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:44:58 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:44:59 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:44:59 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:00 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:00 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:00 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:01 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:01 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:01 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:32 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:33 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:34 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:34 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:34 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:35 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:36 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:36 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:37 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:37 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:45:37 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:46:22 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:47:43 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:47:46 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:47:47 Etc/GMT] PHP Fatal error:  Class 'Sucursal' not found in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 4
+[19-Mar-2020 02:49:42 Etc/GMT] PHP Fatal error:  Class 'cado' not found in /home/singapuringenier/public_html/intranet/cado/ClaseSucursal.php on line 7
+[19-Mar-2020 02:49:46 Etc/GMT] PHP Fatal error:  Class 'cado' not found in /home/singapuringenier/public_html/intranet/cado/ClaseSucursal.php on line 7
+[19-Mar-2020 02:50:08 Etc/GMT] PHP Fatal error:  Class 'cado' not found in /home/singapuringenier/public_html/intranet/cado/ClaseSucursal.php on line 7
+[19-Mar-2020 06:05:10 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[19-Mar-2020 06:05:10 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 06:05:10 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 07:06:21 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[19-Mar-2020 07:06:21 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 07:06:21 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 07:06:27 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 07:06:29 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 07:06:29 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 07:07:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 07:07:14 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 07:08:11 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 07:09:51 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 07:12:43 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 07:13:18 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 07:13:38 Etc/GMT] PHP Notice:  Undefined index: id in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 152
+[19-Mar-2020 02:14:09 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[19-Mar-2020 02:14:09 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[19-Mar-2020 17:57:12 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[19-Mar-2020 17:57:12 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 17:57:12 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 15:02:46 America/Lima] PHP Notice:  Undefined index: S_grupo_nombre in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 16
+[19-Mar-2020 15:02:46 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[19-Mar-2020 15:02:59 America/Lima] PHP Notice:  Undefined index: S_grupo_nombre in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 16
+[19-Mar-2020 15:02:59 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[19-Mar-2020 20:03:55 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[19-Mar-2020 20:03:55 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 20:03:55 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[19-Mar-2020 16:09:26 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 00:07:02 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[20-Mar-2020 00:07:02 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[20-Mar-2020 00:07:02 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[20-Mar-2020 01:52:02 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[20-Mar-2020 01:52:02 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[20-Mar-2020 01:52:02 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[20-Mar-2020 01:52:05 Etc/GMT] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 37
+[20-Mar-2020 01:53:13 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(16): cado->ejecutar('select name fro...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Csucursal.php(37): Ubigeo->nombre_departamento('.01.')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 01:59:58 Etc/GMT] PHP Fatal error:  Call to undefined method Ubigeo::nombre_provincias() in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 39
+[20-Mar-2020 02:06:55 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 02:07:08 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 02:08:16 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 02:27:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 02:29:09 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 02:29:24 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'una provincia' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('Seleccione una ...')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 02:29:32 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'una provincia' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('Seleccione una ...')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 02:29:33 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'una provincia' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('Seleccione una ...')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 02:48:16 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 03:00:05 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 03:00:47 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 03:06:11 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 03:06:53 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 03:09:51 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 03:21:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 03:21:11 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 03:34:09 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 04:04:53 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'una provincia' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('Seleccione una ...')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 04:04:55 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'una provincia' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('Seleccione una ...')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 04:04:55 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'una provincia' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('Seleccione una ...')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 04:04:57 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'una provincia' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('Seleccione una ...')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 04:04:57 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'una provincia' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('Seleccione una ...')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 04:04:57 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'una provincia' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('Seleccione una ...')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:08:09 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[20-Mar-2020 05:08:09 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[20-Mar-2020 05:08:09 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[20-Mar-2020 05:08:49 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:12:26 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:12:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:12:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:47:17 Etc/GMT] PHP Notice:  Undefined index: representante in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 80
+[20-Mar-2020 05:47:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(16): cado->ejecutar('select name fro...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Csucursal.php(34): Ubigeo->nombre_departamento('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:47:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(16): cado->ejecutar('select name fro...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Csucursal.php(34): Ubigeo->nombre_departamento('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:47:55 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(16): cado->ejecutar('select name fro...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Csucursal.php(34): Ubigeo->nombre_departamento('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:47:56 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(16): cado->ejecutar('select name fro...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Csucursal.php(34): Ubigeo->nombre_departamento('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:47:56 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(16): cado->ejecutar('select name fro...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Csucursal.php(34): Ubigeo->nombre_departamento('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 00:47:57 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 05:47:59 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(16): cado->ejecutar('select name fro...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Csucursal.php(34): Ubigeo->nombre_departamento('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:54:51 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:54:53 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:55:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:55:22 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:55:28 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 05:55:29 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 06:04:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 06:04:42 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 06:05:58 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 06:06:59 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 06:07:01 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 06:07:14 Etc/GMT] PHP Notice:  Undefined index: representante in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 80
+[20-Mar-2020 06:46:02 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 06:51:14 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 06:51:19 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 02:08:05 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 07:13:16 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:25:11 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:25:18 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:25:25 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:25:36 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:25:41 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:25:41 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:25:48 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:26:00 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:26:10 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:27:18 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:27:19 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:27:21 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:27:24 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 07:27:27 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[20-Mar-2020 02:31:44 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:31:45 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:47:48 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:50:13 America/Lima] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[20-Mar-2020 02:50:45 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:53:03 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:54:32 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:55:11 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:55:11 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:55:54 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:55:54 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:56:53 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 02:57:06 America/Lima] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[20-Mar-2020 02:57:30 America/Lima] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[20-Mar-2020 02:59:06 America/Lima] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[20-Mar-2020 02:59:55 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 03:01:22 America/Lima] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo' in 'field list'' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseGrupo.php(50): cado->ejecutar('insert into con...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php(66): Grupos->RegistrarConvenio('BANCO FALABELLA...', '20330401991', 'CAL.CARPACCIO N...', 'C', 'E', '', '25d55ad283aa400...')
+#3 /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php(7): controlador('NUEVO_CONV')
+#4 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[20-Mar-2020 03:24:30 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[20-Mar-2020 17:15:29 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[20-Mar-2020 17:15:29 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[20-Mar-2020 17:15:29 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[20-Mar-2020 12:18:39 America/Lima] PHP Notice:  Undefined variable: fila in /home/singapuringenier/public_html/intranet/controlador/Cgrupo.php on line 18
+[21-Mar-2020 23:26:09 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[21-Mar-2020 23:26:09 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[21-Mar-2020 23:26:09 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[21-Mar-2020 23:29:49 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[21-Mar-2020 23:29:49 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[21-Mar-2020 23:29:49 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[21-Mar-2020 23:36:39 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[21-Mar-2020 23:36:39 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[21-Mar-2020 23:36:39 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[21-Mar-2020 23:37:05 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[21-Mar-2020 23:37:05 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[21-Mar-2020 23:37:05 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[21-Mar-2020 23:37:05 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[21-Mar-2020 23:37:07 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[21-Mar-2020 23:37:07 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[21-Mar-2020 23:37:50 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[21-Mar-2020 23:37:50 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[21-Mar-2020 23:37:51 Etc/GMT] PHP Warning:  require[22-Mar-2020 00:53:30 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 00:53:30 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 00:53:30 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 00:53:51 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 00:53:51 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 00:53:57 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 00:53:57 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 00:53:58 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 00:53:58 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 00:53:59 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 00:53:59 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 00:54:01 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 00:54:01 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:05:08 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:05:08 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:05:10 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:05:10 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:09:55 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:09:55 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:09:56 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:09:56 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:09:56 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:09:56 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:16:18 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:16:18 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:16:19 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:16:19 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:17:19 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:17:19 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:17:19 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:17:19 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:27 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:27 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:27 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:27 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:28 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:28 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:29 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:29 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:30 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:30 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:30 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:30 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:31 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:31 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:32 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:32 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:33 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:18:33 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:27:15 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:27:15 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:27:18 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:27:18 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:29:13 Etc/GMT] PHP Notice:  Undefined index: op in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 6
+[22-Mar-2020 01:29:20 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:29:20 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:29:21 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:29:21 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:29:23 Etc/GMT] PHP Warning:  require_once(../sunat/src/autoload.php): failed to open stream: No such file or directory in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:29:23 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../sunat/src/autoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/singapuringenier/public_html/intranet/controlador/Cempresa.php on line 116
+[22-Mar-2020 01:35:15 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 01:35:15 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 01:35:15 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 02:07:15 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 03:36:00 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 03:36:00 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 03:36:00 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 03:36:31 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 03:36:31 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 03:36:31 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 04:09:08 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 04:09:08 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 04:09:08 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 04:32:16 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 04:32:16 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 04:32:16 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 04:43:02 Etc/GMT] PHP Notice:  Undefined index: buscar in /home/singapuringenier/public_html/intranet/controlador/Cserie.php on line 12
+[22-Mar-2020 04:52:53 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:52:53 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:53:18 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:54:20 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:54:20 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:54:25 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:54:25 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:54:25 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:54:25 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:54:26 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[22-Mar-2020 04:54:28 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 04:54:28 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 04:54:28 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 05:48:35 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
+[22-Mar-2020 05:59:16 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 05:59:16 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 05:59:16 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 19:12:03 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 19:12:03 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 19:12:03 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 19:12:04 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 19:12:04 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 19:12:04 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 19:34:56 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 19:34:56 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 19:34:56 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 19:50:55 Etc/GMT] PHP Notice:  Undefined index: idcaja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 128
+[22-Mar-2020 19:50:55 Etc/GMT] PHP Notice:  Undefined index: nom_caja in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 19:50:55 Etc/GMT] PHP Notice:  Undefined index: codigo_ingreso in /home/singapuringenier/public_html/intranet/controlador/Cusuario.php on line 129
+[22-Mar-2020 19:58:15 Etc/GMT] PHP Notice:  Undefined index: buscar in /home/singapuringenier/public_html/intranet/controlador/Cserie.php on line 12
+[22-Mar-2020 20:51:13 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 20:51:13 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 20:51:14 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 20:51:43 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 20:52:28 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 21:00:50 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 21:00:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 21:01:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 21:02:05 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 21:02:11 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 23:03:30 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 23:03:30 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 23:26:36 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 23:26:37 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 23:49:44 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 23:50:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[22-Mar-2020 23:56:41 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(30): cado->ejecutar('select name fro...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Csucursal.php(39): Ubigeo->nombre_provincia(' ')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:02:12 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:02:41 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:02:41 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:08:38 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:08:58 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:11:11 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:14:09 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:14:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:15:15 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:16:33 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:18:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(23): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(11): Ubigeo->Listar_provincia('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 00:18:52 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/singapuringenier/public_html/intranet/cado/conexion.php:19
+Stack trace:
+#0 /home/singapuringenier/public_html/intranet/cado/conexion.php(19): PDOStatement->execute()
+#1 /home/singapuringenier/public_html/intranet/cado/ClaseUbigeo.php(37): cado->ejecutar('select * from u...')
+#2 /home/singapuringenier/public_html/intranet/controlador/Cubigeo.php(25): Ubigeo->Listar_distrito('')
+#3 {main}
+  thrown in /home/singapuringenier/public_html/intranet/cado/conexion.php on line 19
+[23-Mar-2020 07:33:42 Etc/GMT] PHP Notice:  Undefined variable: rtn in /home/singapuringenier/public_html/intranet/sunat/src/sunat.php on line 116
+[23-Mar-2020 07:47:56 Etc/GMT] PHP Notice:  Undefined variable: estado in /home/singapuringenier/public_html/intranet/controlador/Csucursal.php on line 95
